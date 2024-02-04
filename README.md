@@ -1,6 +1,6 @@
 # TP Visualisation et compression "out-of-core" de soupes de triangles
 
-Ce dépôt contient le code source et le rapport du TP1 du cours Introduction à l'informatique graphique. Le TP consiste à implémenter un algorithme de compression de soupes de triangles, basé sur un découpage régulier de l'espace en cellules. Le TP utilise la bibliothèque libQGLViewer pour la visualisation des modèles 3D.
+Ce dépôt contient le code source du TP1 du cours Introduction à l'informatique graphique. Le TP consiste à implémenter un algorithme de compression de soupes de triangles, basé sur un découpage régulier de l'espace en cellules. Le TP utilise la bibliothèque libQGLViewer pour la visualisation des modèles 3D.
 
 L'implémentation de fonctions de lecture et d'écriture de fichiers `.tri` ainsi que de la classe Vecteur est demandée par le sujet du TP.
 
