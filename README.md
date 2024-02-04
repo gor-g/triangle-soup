@@ -4,22 +4,6 @@ Ce dépôt contient le code source et le rapport du TP1 du cours Introduction à
 
 L'implémentation de fonctions de lecture et d'écriture de fichiers `.tri` ainsi que de la classe Vecteur est demandée par le sujet du TP.
 
-# Résultat
-
-La soupe de triangle initial :
-
-![soupe de triangle initial](https://github.com/mySpecialUsername/triangle-soup/blob/main/images/initial.png)
-
-Résultat de compression rudimentaire :
-
-![compression rudimentaire](https://github.com/mySpecialUsername/triangle-soup/blob/main/images/zip_rough.png)
-
-Résultat de compression lisse :
-
-![compression lisse](https://github.com/mySpecialUsername/triangle-soup/blob/main/images/zip_smooth.png)
-
-Le résultat de la compression lisse sans doublons est visuellement identique au résultat de la compression lisse.
-
 # Build et Utilisation
 
 Il y a 4 exécutables :
@@ -38,3 +22,19 @@ Pour construire manuellement les exécutables :
 
 `qmake "VERSION=0" && make` pour pour `viewer`
 `qmake "VERSION=[n]" && make` pour pour `zipper[n]`
+
+# Résultat
+
+La soupe de triangle initial :
+
+![soupe de triangle initial](https://github.com/mySpecialUsername/triangle-soup/blob/main/images/initial.png)
+
+Résultat de compression rudimentaire :
+
+![compression rudimentaire](https://github.com/mySpecialUsername/triangle-soup/blob/main/images/zip_rough.png)
+
+Résultat de compression lisse :
+
+![compression lisse](https://github.com/mySpecialUsername/triangle-soup/blob/main/images/zip_smooth.png)
+
+Le résultat de la compression lisse sans doublons est visuellement identique au résultat de la compression lisse.
