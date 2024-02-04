@@ -39,3 +39,6 @@ qmake.conf
 *.swp
 *.swo
 *.DS_Store
+
+.qglviewer.xml
+.qmake.stash
