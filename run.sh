@@ -1,4 +1,4 @@
-#gunzip bunny200.tri.gz
+gunzip bunny200.tri.gz
 ./viewer.out bunny200.tri
 echo
 time ./zipper1.out bunny200.tri bunny200_small.tri 50 50 50
