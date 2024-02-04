@@ -1,0 +1,41 @@
+# Compiled Object files
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.a
+
+# Executables
+*.exe
+*.out
+
+# Qt-specific files
+*.moc
+*.moc.cpp
+*.qrc
+*.rcc
+
+# Generated files
+Makefile
+qmake.conf
+
+# IDE-specific files
+.vscode/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vcproj
+*.vcproj.filters
+*.vcproj.user
+*.xcodeproj/
+*.xcworkspace/
+*.swp
+*.swo
+*.DS_Store
